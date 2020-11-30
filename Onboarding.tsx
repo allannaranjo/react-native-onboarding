@@ -1,4 +1,3 @@
-//https://medium.com/backticks-tildes/create-a-custom-app-intro-slider-in-react-native-4308fae83ad1
 import React, { useState, memo } from 'react';
 import { View, SafeAreaView, StatusBar, StyleSheet, Dimensions, Platform } from 'react-native';
 import CarouselItem from './CarouselItem'
