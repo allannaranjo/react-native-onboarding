@@ -7,3 +7,4 @@ Ese "carouselConfig.ts" podría (y debería) hacer un request y traer eso desde 
 
 El screen se llama Home.tsx
 
+Obviamente estos archivos los saqué de mi proyecto privado, por lo que quité un montón de cosas para compartirlo.
